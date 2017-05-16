@@ -15,6 +15,9 @@ th, td{
 .bg-white{
   background-color: white;
 }
+.bg-white-low{
+  background-color: white;
+}
 .bold-600{
   font-weight:600;
 }
